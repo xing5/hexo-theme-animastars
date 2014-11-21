@@ -1,6 +1,6 @@
 # AnimaStars 
 
-Add star animation to the official landscape theme along with some changes on font and colors. 
+Add star animation to the official **Landscape** theme along with some changes on font and colors. 
 
 - [Preview](http://demo.xingwu.me/animastars)
 
@@ -12,7 +12,7 @@ Add star animation to the official landscape theme along with some changes on fo
 $ git clone https://github.com/hexojs/hexo-theme-animastars.git themes/animastars
 ```
 
-**Landscape requires Hexo 2.4 and above.**
+**Animastars requires Hexo 2.4 and above.**
 
 ### Enable
 
