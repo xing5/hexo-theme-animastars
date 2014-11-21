@@ -1,27 +1,27 @@
 # AnimaStars 
 
-A brand new default theme for [Hexo].
+Add star animation to the official landscape theme along with some changes on font and colors. 
 
-- [Preview](http://hexo.io/hexo-theme-landscape/)
+- [Preview](http://demo.xingwu.me/animastars)
 
 ## Installation
 
 ### Install
 
 ``` bash
-$ git clone https://github.com/hexojs/hexo-theme-landscape.git themes/landscape
+$ git clone https://github.com/hexojs/hexo-theme-animastars.git themes/animastars
 ```
 
 **Landscape requires Hexo 2.4 and above.**
 
 ### Enable
 
-Modify `theme` setting in `_config.yml` to `landscape`.
+Modify `theme` setting in `_config.yml` to `animastars`.
 
 ### Update
 
 ``` bash
-cd themes/landscape
+cd themes/animastars
 git pull
 ```
 
